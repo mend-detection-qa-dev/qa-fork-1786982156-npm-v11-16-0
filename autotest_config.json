@@ -40,9 +40,9 @@
       "_comment_expected_dependencies_number": "Optional. Expected number of dependencies with comparison operator. Operators: gt (>), gte (>=), lt (<), lte (<=), eq (==). If not provided, this check will not be performed.",
       "direct_dependencies_names_list": {
         "eq": [
-          "chalk",
-          "esbuild",
-          "husky"
+          "esbuild-0.25.4.tgz",
+          "husky-9.1.7.tgz",
+          "chalk-5.4.1.tgz"
         ]
       },
       "transitive_dependencies_names_list": {
