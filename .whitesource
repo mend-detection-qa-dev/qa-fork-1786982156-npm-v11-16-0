@@ -4,5 +4,13 @@
       "npm": ">=11 <12",
       "node": ">=20 <21"
     }
+  },
+  "scanSettingsSAST": {
+    "enableScan": false
+  },
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": false
+    }
   }
 }
